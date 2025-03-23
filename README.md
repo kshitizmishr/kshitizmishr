@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Java Programming**
 
-- 💬 Ask me about **HTML, JSS, JavaScript, Node.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js**
 
 - 📫 How to reach me **kshitizmishra789@gmail.com**
 
